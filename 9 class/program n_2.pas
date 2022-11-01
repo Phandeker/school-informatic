@@ -1,7 +1,7 @@
 program n_2;
 
 var i: integer;
-    а: array [1..10] of integer;
+    a: array [1..10] of integer;
 
 begin 
 
